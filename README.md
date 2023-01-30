@@ -1,7 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-### : man_technologist: About Me 
+---
+
+### :woman_technologist: About Me :
 <br>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>
 - :telescope: Aspiring software engineer enjoys working in frontend and backend but aspiring to specialise in distributed computing and scalable backend systems.
