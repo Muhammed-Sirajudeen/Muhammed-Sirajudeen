@@ -15,6 +15,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNf73WeAKNRHECRi3JWPhZHrzKC6b5XqqSg&usqp=CAU" height="50px" width="50px">
     <img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" height="50px" width="50px">
   <img src="https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon-thumbnail.png" height="50px" width="50px">
+  <img src="https://w7.pngwing.com/pngs/524/906/png-transparent-node-js-logo-nodejs-javascript-source-code-programming-development-thumbnail.png" height="50px" width="50px">
 </div>
 
 ### :fire: My Stats :
