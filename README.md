@@ -22,7 +22,7 @@
 
  <img src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" height="50px" width="50px"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNf73WeAKNRHECRi3JWPhZHrzKC6b5XqqSg&usqp=CAU" height="50px" width="50px">
-   [image](https://user-images.githubusercontent.com/43089951/215452211-7308a86b-16bc-4507-94c5-85c7191b7063.png)
+   
   <img src="https://w7.pngwing.com/pngs/862/624/png-transparent-aws-vector-brand-logos-icon-thumbnail.png" height="50px" width="50px">
   <img src="https://w1.pngwing.com/pngs/885/534/png-transparent-green-grass-nodejs-javascript-react-mean-angularjs-logo-symbol-thumbnail.png" height="50px" width="50px">
   <img src="https://w1.pngwing.com/pngs/518/449/png-transparent-react-logo-webpack-babel-javascript-npm-github-nodejs-front-and-back-ends-thumbnail.png" height="50px" width="50px">
