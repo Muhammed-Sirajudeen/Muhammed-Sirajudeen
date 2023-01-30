@@ -5,7 +5,7 @@
 
 ### :man_technologist: About Me :
 <br>
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>
+<div>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</div>
 - :telescope: Aspiring software engineer enjoys working in frontend and backend but aspiring to specialise in distributed computing and scalable backend systems.
 
 - :seedling: Solving real world problems and making life easier with code.
