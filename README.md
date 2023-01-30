@@ -3,4 +3,13 @@
 </div>
 
 
+<br>
+
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsirajudeen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" alt="loading">
+
+
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsirajudeen&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)" alt="loading">
+
+ 
