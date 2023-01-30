@@ -2,4 +2,4 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <br>
-(http://github-readme-streak-stats.herokuapp.com?user=muhammedsirajudeen&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedsirajudeen)](https://github.com/anuraghazra/github-readme-stats)
