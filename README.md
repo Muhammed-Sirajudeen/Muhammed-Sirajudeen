@@ -3,7 +3,7 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 <br>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.<br>
 - :telescope: Aspiring software engineer enjoys working in frontend and backend but aspiring to specialise in distributed computing and scalable backend systems.
