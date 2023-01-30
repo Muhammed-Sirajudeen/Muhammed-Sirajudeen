@@ -7,7 +7,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
- <img src="https://www.pngwing.com/en/free-png-hjxmr" height="50px" width:"50px"> 
+ <img src="https://www.pngwing.com/en/free-png-hjxmr" height="50px" width="50px"> 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNf73WeAKNRHECRi3JWPhZHrzKC6b5XqqSg&usqp=CAU" height="50px" width="50px">
 </div>
 
