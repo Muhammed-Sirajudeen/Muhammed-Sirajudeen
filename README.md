@@ -1,25 +1,52 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
----
-
-### :man_technologist: About Me :
-<br>
-<div>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</div>
-- :telescope: Aspiring software engineer who enjoys working in frontend and backend but aspiring to specialise in distributed computing and scalable backend systems and machine learning.
-
-- :seedling: Solving real world problems and making life easier with code.
-
-- :zap: Iam a trading and investing junkie I explore financial markets on my free time.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/muhammed-sirajudeen-10a679217)
-
-<br>
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-
-</div>
+```json
+{
+  "name": "Muhammed Sirajudeen",
+  "skills": [
+    "Full-Stack Web Development",
+    "Backend Development",
+    "API Design & Integration",
+    "Cybersecurity",
+    "Machine Learning & Deep Learning",
+    "Blockchain & Smart Contracts",
+    "Cloud Computing",
+    "DevOps",
+    "Bug Bounty Hunting",
+    "System Design"
+  ],
+  "experience": [
+    {
+      "role": "Freelance Software Engineer",
+      "company": "Self-Employed",
+      "duration": "5+ years",
+      "responsibilities": [
+        "Built and deployed scalable backend systems",
+        "Developed and integrated APIs for various clients",
+        "Worked on cybersecurity research and bug bounty programs",
+        "Developed and maintained blockchain-based applications"
+      ]
+    },
+  ],
+  "learning": [
+    "Mastering Large Language Models (LLMs)",
+    "Deep Learning with PyTorch",
+    "Golang",
+    "Advanced System Design",
+    "Bug Bounty Hunting",
+    "Monetization Strategies for Indie Hackers"
+  ],
+  "interests": [
+    "Building APIs",
+    "Solving complex problems with software",
+    "Chess & Poker",
+    "Exploring open-source contributions",
+    "Teaching & Blogging"
+  ],
+  "social": {
+    "github": "https://github.com/muhammedsirajudeen",
+    "linkedin": "https://linkedin.com/in/muhammedsirajudeen",
+  }
+}
+```
 
 ### :fire: My Stats :
 <br>
